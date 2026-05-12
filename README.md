@@ -53,6 +53,7 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 | [0485-max-consecutive-ones](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
