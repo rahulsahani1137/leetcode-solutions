@@ -6,6 +6,7 @@ impl Solution {
             result.push(nums[i]);
             result.push(nums[i + n]);
         }
+        // Time Complexity: O(n), Space Complexity: O(n)
         result
     }
 }
