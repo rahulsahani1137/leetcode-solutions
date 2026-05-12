@@ -12,6 +12,7 @@ impl Solution {
             }
         }
 
+        // TC: O(n), SC: O(1)
         max_count
     }
 }
