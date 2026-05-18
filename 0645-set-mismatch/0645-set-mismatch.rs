@@ -3,7 +3,6 @@ impl Solution {
         let n = nums.len();
         let mut ans = vec![0, 0];
         
-        // Mark visited numbers by making them negative
         for i in 0..n {
             let idx = (nums[i].abs() - 1) as usize;
             if nums[idx] < 0 {
