@@ -51,6 +51,7 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 | [0283-move-zeroes](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0898-transpose-matrix](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -86,6 +87,7 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 | [0088-merge-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [1019-squares-of-a-sorted-array](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -112,6 +114,7 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rahulsahani1137/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -143,4 +146,5 @@ Thank you for visiting, and happy coding! If you have any questions or just want
 | [0136-single-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/rahulsahani1137/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
